@@ -2,7 +2,7 @@
 - 👀 I’m interested in entrar para o Time Devops.
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bcaixe@gmail.com
+- 📫 How to reach me 
 
 <!---
 Andreia-caixeta/Andreia-caixeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
